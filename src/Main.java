@@ -34,7 +34,7 @@ class TodoListFrame extends JFrame {
         inputField = new JTextField(20);
         panel.add(inputField);
 
-        addButton = new JButton("Add");
+        addButton = new JButton("Adding");
         panel.add(addButton);
 
         removeButton = new JButton("Remove");
