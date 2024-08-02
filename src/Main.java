@@ -17,7 +17,7 @@ class TodoListFrame extends JFrame {
     private JButton removeButton;
 
     public TodoListFrame() {
-        setTitle("To-Do List");
+        setTitle("To-Do LIST");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
